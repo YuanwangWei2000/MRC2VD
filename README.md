@@ -49,9 +49,23 @@ pip install -r requirements.txt
 
 If you use this dataset or code, please cite the dataset:
 
-> Wei Yuanwang, Zeng Luhang, Sun Hong, et al. Multimodal Remote Cardiac Cycle-Level Variability Dataset (MRC²VD)[DS/OL]. V4. Science Data Bank, 2026. https://doi.org/10.57760/sciencedb.29362.
+> Zhou Caiying, Zeng Luhang, Zhou Yuhao, Wei Yuanwang, Fried-Michael Dahlweid, Wang Sheng, Sun Hong, Wang Chaochao, Zhang Xianchao. Multimodal Remote Cardiac Cycle-Level Variability Dataset (MRC²VD)[DS/OL]. V4. Science Data Bank, 2026. https://doi.org/10.57760/sciencedb.29362.
 
+>@misc{dataset_mrc2vd,
+  author       = {Zhou, Caiying and Zeng, Luhang and Zhou, Yuhao and Wei, Yuanwang and
+                  Dahlweid, Fried-Michael and Wang, Sheng and Sun, Hong and
+                  Wang, Chaochao and Zhang, Xianchao},
+  title        = {Multimodal Remote Cardiac Cycle-Level Variability Dataset ({MRC}$^2${VD})},
+  year         = {2026},
+  version      = {V4},
+  publisher    = {Science Data Bank},
+  doi          = {10.57760/sciencedb.29362},
+  url          = {https://doi.org/10.57760/sciencedb.29362},
+  note         = {Dataset}
+}
 If the corresponding methodology paper is published, please also cite it in addition to the dataset.
+
+
 
 ## License
 
